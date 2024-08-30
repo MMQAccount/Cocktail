@@ -1,0 +1,5 @@
+[submodule "src/cocktailapp"]
+	ignore = untracked
+[submodule "Cocktail"]
+	path = Cocktail
+	url = https://github.com/MMQAcount/Cocktail.git
