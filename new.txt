@@ -1,0 +1,12 @@
+Added ingredient: Fruit{name = Banana, Number Of Calories = 20, color = (r=243, g=232, b=127), volume=100}
+Added ingredient: Suger{name = Brown Suger, Number Of Calories = 8, color=(r=201, g=160, b=98)}
+Added ingredient: Milk{name = bluish, Number Of Calories = 20, volum=91, color=(r=249, g=253, b=186)}
+Blending ingredients
+Pouring into cup: Cup { capacity=150.0, numberOfCalories=37.69633507853403, numberOfCups=2}
+File }
+Added ingredient: Fruit{name = Banana, Number Of Calories = 20, color = (r=243, g=232, b=127), volume=100}
+Added ingredient: Suger{name = Brown Suger, Number Of Calories = 8, color=(r=201, g=160, b=98)}
+Added ingredient: Milk{name = bluish, Number Of Calories = 20, volum=91, color=(r=249, g=253, b=186)}
+Blending ingredients
+Pouring into cup: Cup { capacity=150.0, numberOfCalories=37.69633507853403, numberOfCups=2}
+File }
